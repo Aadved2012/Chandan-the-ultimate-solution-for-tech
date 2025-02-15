@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8b193731.css",
+    "main.js": "/static/js/main.cf9ee517.js",
+    "static/js/787.b90c4873.chunk.js": "/static/js/787.b90c4873.chunk.js",
+    "static/media/smart-tvs.png": "/static/media/smart-tvs.d1f549b09c75442e426f.png",
+    "static/media/printers.jpg": "/static/media/printers.3a98ea0ff5d9ec50a7de.jpg",
+    "static/media/smartwatches.webp": "/static/media/smartwatches.ebe9313c10263f70ae09.webp",
+    "static/media/hp-logo.png": "/static/media/hp-logo.bdcbc32eca10c7852a5e.png",
+    "static/media/mobilephones.webp": "/static/media/mobilephones.b437c5dbf23fbff0e714.webp",
+    "static/media/vivo.png": "/static/media/vivo.06f2843cec811be704fb.png",
+    "static/media/oppo.jpg": "/static/media/oppo.dba97aad869c1ff6a78d.jpg",
+    "static/media/oppo-logo.png": "/static/media/oppo-logo.9d5aa948f3c75e2af69d.png",
+    "static/media/vivo-logo.png": "/static/media/vivo-logo.7fafb49411fa2a972ca2.png",
+    "static/media/logitech-logo.png": "/static/media/logitech-logo.b87baa1e329c4395ce94.png",
+    "static/media/laptops.webp": "/static/media/laptops.fdcfa38e7c1185e9aa51.webp",
+    "static/media/dell-logo.png": "/static/media/dell-logo.dea973a6860995f93fff.png",
+    "static/media/realme-logo.png": "/static/media/realme-logo.11ce32e47c71aec03df8.png",
+    "static/media/boat-logo.webp": "/static/media/boat-logo.dbb61ccddf27eed91023.webp",
+    "static/media/chandan-logo.png": "/static/media/chandan-logo.b55337c632eead68159f.png",
+    "static/media/asus-logo.png": "/static/media/asus-logo.c784edf23e89e886ac7e.png",
+    "static/media/accessories.webp": "/static/media/accessories.723e873041825e36199f.webp",
+    "static/media/techno-logo.png": "/static/media/techno-logo.543ebbfc5771ef4d0f86.png",
+    "static/media/samsung-logo.webp": "/static/media/samsung-logo.5313c49c9d0e3f59d951.webp",
+    "static/media/slick.svg": "/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/index.html",
+    "static/media/apple-logo.svg": "/static/media/apple-logo.134569f8a176d874c830345a091a4c33.svg",
+    "main.8b193731.css.map": "/static/css/main.8b193731.css.map",
+    "main.cf9ee517.js.map": "/static/js/main.cf9ee517.js.map",
+    "787.b90c4873.chunk.js.map": "/static/js/787.b90c4873.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b193731.css",
+    "static/js/main.cf9ee517.js"
+  ]
+}

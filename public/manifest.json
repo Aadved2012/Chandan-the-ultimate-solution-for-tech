@@ -1,0 +1,25 @@
+{
+  "short_name": "Chandan | Kalimpong",
+  "name": "Chandan The Ultimate Solution For Technology provides the best service in Kalimpong. We deal in Mobile Phones, Tablets, Laptops, Smart TVs, Smartwatches etc.",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "192x192"
+    },
+    {
+      "src": "favicon.ico",
+      "type": "image/x-icon",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

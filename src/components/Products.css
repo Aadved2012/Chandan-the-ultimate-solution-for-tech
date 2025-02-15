@@ -1,0 +1,35 @@
+.products-container {
+    background-color: #fff;
+    min-height: calc(100vh - 200px);
+}
+
+#products-subtitle {
+    text-align: center;
+    padding: 1.5em;
+    color: #13265C;
+    font-family: 'Harmattan', sans-serif;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.card-flex {
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.card-flex-item {
+    margin: 20px;
+    border: 0;
+}
+
+.card-flex-item-img {
+    min-height: 180px;
+    max-height: 180px;
+}
+
+.card-flex-item-title {
+    text-align: center;
+    font-family: 'Harmattan', sans-serif;
+    font-size: 1.5em;
+}

@@ -1,0 +1,15 @@
+.slider-container {
+    max-height: calc(100vh - 120px);
+    overflow: hidden;
+    max-width: 75vw;
+    margin: auto;
+}
+
+@media only screen and (max-width: 600px) {
+    .slider-container {
+        max-height: calc(100vh - 120px);
+        overflow: hidden;
+        max-width: 100vw;
+    }
+    
+  }

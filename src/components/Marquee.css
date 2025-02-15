@@ -1,0 +1,17 @@
+.marquee-container {
+    width: 80%;
+    margin: 50px auto;
+
+}
+
+.marquee-image {
+    max-height: 150px;
+    padding: 20px 30px;
+}
+
+@media only screen and (max-width: 600px) {
+    .marquee-container {
+        width: 100%;
+    
+    }
+  }

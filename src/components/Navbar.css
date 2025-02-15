@@ -1,0 +1,20 @@
+#logoTxt {
+    font-family: 'Harmattan', sans-serif;
+    font-size: 2em;
+    font-weight: 900;
+    color: #13265C;
+    position: relative;
+    left: -15px;
+    top: 4px;
+}
+
+#logoTxt:hover {
+    color: #000;
+}
+
+.nav-links {
+    font-size: 1.5em;
+    color: #13265C;
+    font-family: 'Harmattan', sans-serif;
+    margin: 0 10px;
+}

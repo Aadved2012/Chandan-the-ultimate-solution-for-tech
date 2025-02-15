@@ -1,0 +1,21 @@
+.footer-container {
+    padding: 20px 100px;
+    display: flex;
+    justify-content: space-between;
+    background: #fff;
+    color: #13265C;
+}
+
+.footer-container p {
+    text-align: center;
+    margin: 0;
+    font-family: 'Harmattan', sans-serif;
+    font-size: 1.2em;
+}
+
+@media only screen and (max-width: 600px) {
+    .footer-container {
+        display: block;
+        padding: 20px;
+    }
+  }

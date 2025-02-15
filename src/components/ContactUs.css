@@ -1,0 +1,66 @@
+.contact-container {
+    background-color: #fff;
+    min-height: calc(100vh - 80px);
+    font-family: 'Harmattan', sans-serif;
+    font-size: 1.5em;
+}
+
+.contact-subtitle {
+    text-align: center;
+    padding: 0px;
+    color: #13265C;
+    font-size: 2.5em;
+    font-weight: bold;
+}
+
+.contact-container > p {
+    text-align: center;
+}
+
+.contact-container h3 {
+    font-weight: bold;
+}
+
+.flex-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+    align-items: center;
+}
+
+/* .flex-item {
+    display: inline-block;
+    width: 50%;
+} */
+
+.address-container {
+    padding: 20px;
+}
+
+.address-container p {
+    margin: 0;
+}
+
+.address-container a {
+    display: block;
+    text-decoration: none;
+    color: #13265C;
+}
+
+.iframe-container iframe {
+    min-height: 75vh;
+    width: 45vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .flex-container {
+        display: block;
+        text-align: center;
+    }
+
+    .iframe-container iframe {
+        margin: 20px;
+        min-height: 75vh;
+        width: 90vw;
+    }
+  }
